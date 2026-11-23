@@ -1,18 +1,9 @@
-The first public version of Fairdraw, a free, fair and private random picker.
+A small fix to the wheel screen.
 
-- Thirteen tools: random number, lottery lines, 3D dice, coin, cards, yes or no, letter, wheel, pick a name, teams, raffle, whose turn, shuffle and password.
-- Every pick from the phone's cryptographic random generator, with fair, unbiased ranges.
-- Real 3D dice from d4 to d100, dice notation such as 2d6+3, and shake to roll.
-- A wheel you can flick, with take-winners-off, bigger slices and four styles.
-- Teams balanced by skill, with captains, team names and keep-together or keep-apart rules.
-- Raffles by name or ticket number, with winners, reserves and tickets per person, revealed one place at a time.
-- A shared Lists library, and paste a whole list at once.
-- Full-screen presenter mode, and a one-page draw record PDF with a reference code.
-- History with search, stars, auto-delete and CSV export; a backup file you keep.
-- Home-screen widget and a quick-settings tile.
-- Sounds made by the app in three styles, haptics, light, dark and black themes.
-- No internet permission, no account, no adverts.
+- The wheel's colour styles now sit in two even rows, so every style fits on any phone. The "Tools" style squashed off the edge before.
+- The "Tools" style is now called "Fairdraw", because it colours the slices in the app's own colours. A line under "Wheel style" says what the styles do: they change the look, never the result.
+- The Add, Paste many and Load a list buttons under a list now move onto a second line instead of running off the edge.
 
-Needs Android 8 or later. Install it over an older version to keep your lists, history and settings.
+Needs Android 8 or later. Install it over 1.0.0 to keep your lists, history and settings.
 
 Website: https://customgpter.github.io/fairdraw/
