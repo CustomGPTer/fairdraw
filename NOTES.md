@@ -1,9 +1,7 @@
-A small fix to the wheel screen.
+Fairdraw 1.0.2 ties the app into TorusApps.com.
 
-- The wheel's colour styles now sit in two even rows, so every style fits on any phone. The "Tools" style squashed off the edge before.
-- The "Tools" style is now called "Fairdraw", because it colours the slices in the app's own colours. A line under "Wheel style" says what the styles do: they change the look, never the result.
-- The Add, Paste many and Load a list buttons under a list now move onto a second line instead of running off the edge.
+- Settings, Help and about: Check for updates, Website, More apps, Privacy policy and Email now open torusapps.com (Fairdraw stays fully offline).
+- The about footer now says Developed by Jonathan Jackson with the torusapps.com address and email.
+- The draw-record PDF footer now gives torusapps.com/fairdraw.
 
-Needs Android 8 or later. Install it over 1.0.0 to keep your lists, history and settings.
-
-Website: https://customgpter.github.io/fairdraw/
+Installs over the earlier version and keeps everything.
